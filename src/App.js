@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn AWS
+          Learn AWS ice
         </a>
       </header>
     </div>
